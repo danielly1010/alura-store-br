@@ -6,7 +6,7 @@
 
 ### 1. Análise do Faturamento
 ### 2. Analisar Vendas por Categoria
-### 3. Avaliações dos clientes
+### 3. Avaliação dos Clientes
 ### 4. Verificar Produtos Mais e Menos Vendidos
 ### 5. Frete Médio das Lojas<br> 
 
@@ -44,17 +44,17 @@
 
 ## 🎯 Conclusão
 
-*** Ao explorar e analisar os dados de 4 lojas ficticias (Alura Store), foi possível concluir que a loja 4 obtve o menor faturamento, uma média de avaliação dos clientes de 4.00 e a menor taxa de frete médio. 
+- Ao explorar e analisar os dados de 4 lojas ficticias (Alura Store), foi possível concluir que a loja 4 obtve o menor faturamento, uma média de avaliação dos clientes de 4.0 e a menor taxa de frete médio.<br>
+   
 
   
 ## 🚀 Tecnologias Utilizadas
 
 
-- Python: Linguagem de programação
-- Pandas: Análise de dados
-- Bibliotecas Matplotlib: Geração de gráfiocos estátisticos
-- Google Colab
-  - Ambiente de execução do código
+- Python: linguagem de programação
+- Pandas: análise de dados
+- Bibliotecas Matplotlib: geração de gráfiocos estátisticos
+- Google Colab: mbiente de execução do código
  
 
 ## 👩🏽 Autora
@@ -62,10 +62,9 @@
 <img src="https://github.com/user-attachments/assets/a215304c-a670-4c3c-a3b5-a73da9ba323f" width="130" height="150">
 
 Desenvolvido por Danielly Santos
-- Linkedin: https://www.linkedin.com/in/daniellysantosdatascience
+- [Linkedin](https://www.linkedin.com/in/daniellysantosdatascience)
 
-Projeto desenvolvido  para fins de estudo e demonstração de habilidades em analise exploratórias de dados. Desafio de Ciencias de Dados da Alura [link]. 
-
+🔍 Projeto desenvolvido  para fins de estudo e demonstração de habilidades em analise exploratórias de dados. Desafio do curso de Ciencias de Dados da [Alura](https://www.alura.com.br/)
 
   
   
