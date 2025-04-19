@@ -11,21 +11,31 @@
 ### 5. Frete Médio das Lojas
  
 ## 🗂️ Estrutura do Projeto
-- Análise do Faturamento das Lojas:
+- **Análise do Faturamento das Lojas:**
   - Gráfico barras mostrando o faturamneto de cada loja.
   - Gráfico pizza mostrando o faturamento das lojas.
   - Gráfico de dispersão mosatrando do faturamento das lojas.
-- Vendas por Categoria:
+
+    
+- **Vendas por Categoria:**
   - Resultado da vendas por categoria de cada loja.
   - Gráfico barras mostrando a venda por categoria de cada loja.
-- Média de Avaliação das lojas:
+
+    
+- **Média de Avaliação das lojas:**
   - Mostra a média de avaliação dos cliente às lojas.
-- Produtos Mais e Menos Vendidos:
+
+    
+- **Produtos Mais e Menos Vendidos:**
   - Relaciona os produtos mais e menos vendidos em cada loja.
-- Frete Médio por Loja:
+
+    
+- **Frete Médio por Loja:**
   - Exibe o frete médio em cada loja.
   - Gráfico barras do frete médio das lojas
-- Relatório do Desepenho das Lojas:
+
+    
+- **Relatório do Desepenho das Lojas:**
   - Mostra a loja que teve menor desempenho em relação oas itens abaixo:
     - Faturamento
     - Média de Avaliação
@@ -40,6 +50,7 @@
 
 
 ## 🚀 Tecnologias Utilizadas
+
 
 - Python: Linguagem de programação
 - Pandas: Análise de dados
