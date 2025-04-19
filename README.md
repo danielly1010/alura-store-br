@@ -7,7 +7,7 @@
 ### 1. Análise do Faturamento
 ### 2. Analisar Vendas por Categoria
 ### 3. Avaliação dos Clientes
-### 4. Verificar Produtos Mais e Menos Vendidos
+### 4. Ver Produtos Mais e Menos Vendidos
 ### 5. Frete Médio das Lojas<br> 
 
  
